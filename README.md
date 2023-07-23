@@ -1,1 +1,16 @@
-# get_to_know
+#this is to introduce yourself and get a response back with your information
+
+myName = input("Full Name: ")
+favFood = input("What's your favorite food?: ")
+favSong = input("What's your favorite song?: ")
+address = input("Where do you live?: ")
+print(" ")
+print(" ")
+print("Your name is")
+print(myName)
+print("you like eating")
+print(favFood)
+print("you listen to")
+print(favSong)
+print("and you live at")
+print(address)
